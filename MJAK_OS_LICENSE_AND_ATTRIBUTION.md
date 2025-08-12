@@ -1,35 +1,46 @@
 # MJAK OS – License & Attribution
 
-**Copyright © 2025 Akhilesh Chandra** — Original contributions, modifications, branding, documentation, and integrations in MJAK OS.
+**Copyright © 2025 Akhilesh Chandra** – Original contributions, modifications, branding, documentation, and integrations in MJAK OS.
 
 **Portions of this software are based on code from:**
-- **Self-Operating Computer Framework** by **OthersideAI**, released under the **MIT License** (© 2023 OthersideAI).  
+
+- **Self-Operating Computer Framework** by **OthersideAI**, released under the MIT License (© 2023 OthersideAI).\
   The full text of the MIT License is included below.
 
 ---
 
-## 1. Proprietary Contributions
-My original additions to MJAK OS—including new features, UI work, documentation, scripts, branding, and integration logic—are **All Rights Reserved**. No part of these may be redistributed, modified, or commercially used without my explicit written permission.
+## 1. Scope of Licensing
 
-## 2. Third-Party Code (MIT-Licensed)
-Parts of MJAK OS use code from OthersideAI’s Self-Operating Computer, which is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell this portion of the software, **subject to the conditions of the MIT License**, specifically the requirement to include the copyright and permission notice.
+MJAK OS contains two types of code:
 
-## 3. Redistribution Requirements
-When distributing MJAK OS (whether publicly or privately), you must:
-- **Retain** this combined notice (this file).
-- **Include** the full text of the MIT License for the OthersideAI portion.
-- Clearly distinguish between your respective contributions.
-
-## 4. Trademarks
-“The MJAK OS” name and logos are trademarks of **Akhilesh Chandra**. No usage without explicit, written permission.
-
-## 5. Disclaimer
-MJAK OS is provided “as-is” without warranty of any kind. Neither I (Akhilesh Chandra) nor OthersideAI are liable for any loss, claim, or damages arising from its use.
+1. **Original OthersideAI Code (MIT)** – Licensed under the MIT License, remains free to use, modify, and distribute under MIT terms.
+2. **Akhilesh Chandra Modifications** – All changes, enhancements, integrations, and original features added by Akhilesh Chandra are licensed under the custom restrictions below.
 
 ---
 
-### MIT License (for OthersideAI portion)
+## 2. Permissions for MJAK OS (Akhilesh Chandra Modifications)
 
+Users are allowed to:
+
+✅ Use MJAK OS for personal testing or evaluation.\
+✅ View and learn from the source code and modifications.
+
+---
+
+Users are **not** allowed to, without prior written permission:
+
+❌ Redistribute the modified MJAK OS code publicly.\
+❌ Sell MJAK OS or any of its modifications.\
+❌ Rebrand MJAK OS and claim it as their own.\
+❌ Remove or alter copyright/trademark notices.
+
+---
+
+## 3. Third-Party Code (OthersideAI MIT License)
+
+The original unmodified portions from **OthersideAI** are licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell those original portions **as permitted by the MIT License**, provided you retain the following notice:
+
+```
 MIT License
 
 Copyright (c) 2023 OthersideAI
@@ -51,3 +62,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+```
+
+---
+
+## 4. Disclaimer
+
+MJAK OS is provided "AS IS", without warranty of any kind, express or implied,\
+including but not limited to the warranties of merchantability, fitness for a\
+particular purpose, and noninfringement. In no event shall the authors or\
+copyright holders be liable for any claim, damages, or other liability,\
+whether in an action of contract, tort, or otherwise, arising from, out of, or\
+in connection with the software or the use or other dealings in the software.
+
+---
+
+## 5. Trademarks
+
+“MJAK OS” and associated logos are trademarks of **Akhilesh Chandra**.\
+Unauthorized use is prohibited.
+
