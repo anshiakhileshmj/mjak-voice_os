@@ -32,7 +32,7 @@ voice_os
 ```
 
 This will:
-- 🟢 Start the frontend dev server (http://localhost:5173)
+- 🟢 Start the frontend dev server (http://voice-os.vercel.app)
 - 🐍 Start the Python automation backend (in `os/`)
 - 🌐 Open your default browser automatically
 
@@ -50,7 +50,7 @@ This will:
 ### During start
 - Starts frontend (Vite) first
 - Starts Python backend after frontend is up
-- Frontend: http://localhost:5173
+- Frontend: http://voice-os.vercel.app
 
 ## Manual setup (optional)
 
@@ -65,7 +65,7 @@ Get a key at `https://aistudio.google.com/app/apikey` and paste into the file ab
 ## Troubleshooting
 
 - "Command not found: voice-os-ai": ensure the package is installed globally; try reopening your terminal.
-- Browser didn’t open: open `http://localhost:5173` manually.
+- Browser didn’t open: open `http://voice-os.vercel.app` manually.
 - API key not detected: confirm it’s in `os/.env` as `GOOGLE_API_KEY='<key>'`.
 - Windows paste: right‑click to paste in the terminal if Ctrl+V doesn’t work.
 
